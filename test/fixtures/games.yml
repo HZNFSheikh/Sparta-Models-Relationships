@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  players: 1
+  online_multiplayer: false
+  exclusive: false
+  platform_id: 1
+
+two:
+  title: MyString
+  players: 1
+  online_multiplayer: false
+  exclusive: false
+  platform_id: 1
